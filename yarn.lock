@@ -2177,6 +2177,11 @@ fill-range@^4.0.0:
     repeat-string "^1.6.1"
     to-regex-range "^2.1.0"
 
+fireworks-canvas@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/fireworks-canvas/-/fireworks-canvas-2.3.1.tgz#da4a5421a0ee83a3d2e71ac23bd76dd8debefef9"
+  integrity sha512-orLfUT9ScCQ27biRfGkLCeMbK/K92rmxRE+lxgXg65UxgJmnpUiS2kNyJ7OP9axtGiQU3eN2Dj+TLrT+JGiCXw==
+
 for-in@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"

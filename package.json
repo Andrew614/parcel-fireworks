@@ -9,5 +9,8 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "fireworks-canvas": "^2.3.1"
   }
 }
