@@ -7,8 +7,8 @@
     "parcel-bundler": "^1.12.3"
   },
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/index.html -d docs",
+    "build": "parcel build src/index.html -d docs --public-url ./"
   },
   "dependencies": {
     "fireworks-canvas": "^2.3.1"
