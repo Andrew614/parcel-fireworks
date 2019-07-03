@@ -1,0 +1,13 @@
+* {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #container {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+  }
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
